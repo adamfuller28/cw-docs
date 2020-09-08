@@ -42,7 +42,7 @@ Cancelation & Termination
 
 1. You are solely responsible for properly canceling your account. You can cancel your account at any time by emailing support@Knockknockbooze.com
 2. All of your Content will be immediately deleted from the Service upon cancelation. This information can not be recovered once your account is canceled.
-3. Yoom, in its sole discretion, has the right to suspend or terminate your account and refuse any and all current or future use of the Service, or any other Knock Knock Booze service, for any reason at any time. Such termination of the Service will result in the deactivation or deletion of your Account or your access to your Account, and the forfeiture and relinquishment of all Content in your Account. Knock Knock Booze reserves the right to refuse service to anyone for any reason at any time.
+3. Knock Knock Booze, in its sole discretion, has the right to suspend or terminate your account and refuse any and all current or future use of the Service, or any other Knock Knock Booze service, for any reason at any time. Such termination of the Service will result in the deactivation or deletion of your Account or your access to your Account, and the forfeiture and relinquishment of all Content in your Account. Knock Knock Booze reserves the right to refuse service to anyone for any reason at any time.
 4. In the event that Knock Knock Booze takes action to suspend or terminate an account, we will make a reasonable effort to provide the affected account owner with a copy of their account contents upon request, unless the account was suspended or terminated due to unlawful conduct.
 
 Modifications to the Service
