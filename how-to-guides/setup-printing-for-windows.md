@@ -22,7 +22,7 @@ For step by step instructions by printing method. Please use the following instr
 
 * Windows 7 / 8 / 10 either 32-bit or 64-bit
 * A Windows-compatible printer with the drivers installed
-* Latest version of PushPrinter that can be downloaded [here](https://www.pushprinter.com)
+* Latest version of PushPrinter that can be downloaded here
 
 ## Setup Process
 
@@ -63,7 +63,7 @@ Take note of the paper sizes available as you will likely need to try a few to g
 
 ### Install PushPrinter
 
-1. Download PushPrinter from the following [link](https://www.pushprinter.com)
+1. Download PushPrinter from the following link
 2. Run the installer, you will get a warning that the application is unverified, proceed with the installation
 3. After it is installed successfully, PushPrinter will automatically open
 
