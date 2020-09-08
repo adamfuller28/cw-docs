@@ -16,7 +16,7 @@ description: how to guide to connect a USB printer
 
 ![](../.gitbook/assets/untitled-2.png)
 
-## 4. If your printer is not showing use these instructions to set it up. [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
+## 4. If your printer is not showing use these instructions to set it up. Printer Set up.
 
 ## 5. To test that the printer is working, please press Print Test Page
 
