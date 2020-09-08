@@ -22,7 +22,7 @@ description: how to guide to connect a USB printer
 
 ![](../.gitbook/assets/untitled-3%20%283%29.png)
 
-## 5. If the test page does not print. Then please connect and install the printer correctly. Please see : [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
+## 5. If the test page does not print. Then please connect and install the printer correctly. Please see : Printer Set up.
 
 ## 6. If the test page does print, please share the printer with the following settings;
 
@@ -30,7 +30,7 @@ description: how to guide to connect a USB printer
 
 ## 7. Click apply
 
-## 8. Open the [PushPrinter](https://pushprinter.com/#windows) application. Please check that the settings display as follows;
+## 8. Open the PushPrinter application. Please check that the settings display as follows;
 
 ![](../.gitbook/assets/untitled-5.png)
 
